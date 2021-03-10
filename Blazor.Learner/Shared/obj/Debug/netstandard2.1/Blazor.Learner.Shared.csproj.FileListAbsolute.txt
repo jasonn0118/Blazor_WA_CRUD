@@ -1,0 +1,9 @@
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.deps.json
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.dll
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.pdb
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.csprojAssemblyReference.cache
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.AssemblyInfoInputs.cache
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.AssemblyInfo.cs
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.dll
+C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.pdb

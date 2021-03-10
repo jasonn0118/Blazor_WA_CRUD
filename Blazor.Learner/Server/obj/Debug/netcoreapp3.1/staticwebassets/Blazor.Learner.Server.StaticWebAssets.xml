@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\tlswo\source\repos\Blazor.Learner\Blazor.Learner\Client\wwwroot\" />
+</StaticWebAssets>
